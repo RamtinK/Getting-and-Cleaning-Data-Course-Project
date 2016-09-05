@@ -1,0 +1,44 @@
+---
+title: "README"
+output: word_document
+---
+```{r}
+
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+The tidy data is obtained by changing a dataset that represents data collected from the accelerometers from the Samsung Galaxy S smartphone.
+Following steps are done in the script to have a new tidy data proposed by the Coursera Getting and Cleaning data course project.
+The purpose of this project is to demonstrate participants ability to collect, work with, and clean a data set.
+5 exact steps are:
+
+- Merges the training and the test sets to create one data set. \n
+
+- Extracts only the measurements on the mean and standard deviation for      each measurement.
+
+- Uses descriptive activity names to name the activities in the data set
+
+- Appropriately labels the data set with descriptive variable names.
+
+- From the data set in step 4, creates a second, independent tidy data set   with the average of each variable for each activity and each subject.
+
+The dataset includes the following files:
+=========================================
+
+- 'README.txt'
+
+- 'Codebook.pdf'
+
+- 'data_mean_std.csv'
+
+- 'data_average.csv'
+
+
+Notes: 
+======
+- Features are normalized and bounded within [-1,1].
