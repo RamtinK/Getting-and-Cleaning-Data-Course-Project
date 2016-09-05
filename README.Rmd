@@ -26,7 +26,7 @@ The dataset includes the following files
 
 - 'Codebook.pdf'
 
-- 'data_mean_std.csv'
+- 'tidyData.csv'
 
 - 'data_average.csv'
 
