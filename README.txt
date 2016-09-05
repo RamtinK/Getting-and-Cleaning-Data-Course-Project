@@ -1,6 +1,6 @@
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
-Edited Version by “rmtn for Coursera, Getting and Cleaning Data course”
+Edited Version by 'rmtn for Coursera, Getting and Cleaning Data course'
 ==================================================================
 origin work of Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -23,11 +23,11 @@ The dataset includes the following files:
 
 - 'README.txt'
 
-- ‘Codebook.pdf’
+- 'Codebook.pdf'
 
-- ‘data_mean_std.csv’
+- 'data_mean_std.csv'
 
-- ‘data_average.csv’
+- 'data_average.csv'
 
 
 Notes: 
