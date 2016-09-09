@@ -28,6 +28,7 @@ The dataset includes the following files
 
 - 'tidyData.csv'
 
+- 'run_analysis.R'
 
 
 Notes: 
