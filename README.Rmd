@@ -28,7 +28,6 @@ The dataset includes the following files
 
 - 'tidyData.csv'
 
-- 'data_average.csv'
 
 
 Notes: 
